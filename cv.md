@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /cv
+---
+
 # Дмитрий Кянжин
 Senior Backend Java Developer  
 Россия, 29 лет | UTC+3 (Москва)
