@@ -1,11 +1,10 @@
----
-layout: default
-permalink: /cv
----
-
 # Дмитрий Кянжин
 Senior Backend Java Developer  
 Россия, 29 лет | UTC+3 (Москва)
+
+Telegram: [@Dmitry_Kyanzhin](https://t.me/Dmitry_Kyanzhin)\
+Почта: dskyanzhin@gmail.com\
+Телефон: +7 (964) 907-28-45
 
 ---
 
